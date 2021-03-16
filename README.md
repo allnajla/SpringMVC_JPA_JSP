@@ -1,1 +1,1 @@
-# SpringMVC_JPA_JSP
+# Atelier SpringMVC JPA JSP
